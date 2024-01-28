@@ -45,6 +45,9 @@
         full development cycle, from building, to deploying,
         to maintaining applications over time.
     </description>
+     <description>
+        Apache Struts 2 is an elegant, extensible framework
+    </description>
     -->
 
     <scm>
